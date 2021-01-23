@@ -22,10 +22,21 @@ layout: default
 	<form method="POST" action=#>
 		<input name="options[redirect]" type="hidden" value="{{ site.baseurl }}/{{ post.url }}">
 		<input name="options[slug]" type="hidden" value="{{ page.slug }}">
-		<label><input name="fields[name]" type="text">Name</label>
-		<label><input name="fields[email]" type="email">E-mail</label>
-		<label><textarea name="fields[messsage]"></textarea>Message</label>
-		<button type="submit">Submit</button>
+		<p>
+			<label for="fields[name]">Name:</label>
+			<input type="text" name="fields[name]" id="name">
+		</p>
+		<p>
+			<label for="fields[email]">Email:</label>
+			<input type="email" name="fields[email]" id="email">
+		</p>
+		<p>
+			<label for="fields[message]">Message</label>
+			<textarea name="fields[message]" id="message"></textarea>
+		</p>
+		<p class="submit">
+			<input type="submit" value="Submit" class="btn-submit">
+		</p>
 	</form>
 
 </article>
