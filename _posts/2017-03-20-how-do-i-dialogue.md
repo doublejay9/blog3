@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: writing-about-writing, how-do-i
+categories: writing-about-writing how-do-i
 title: How Do I...? Dialogue
 ---
 
