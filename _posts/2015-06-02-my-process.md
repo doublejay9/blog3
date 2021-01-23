@@ -1,6 +1,6 @@
 ---
 layout: post
-category: writing about writing
+category: writing-about-writing
 title: My Process
 ---
 
