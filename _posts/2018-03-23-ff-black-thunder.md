@@ -1,7 +1,7 @@
 ---
 layout: post
 category: friday-fiction
-title: Friday FLash 3 -- Black Thunder
+title: Friday Flash 3 -- Black Thunder
 ---
 
 *Inspired by [“Blackened Soul” by Adrian von Ziegler](https://www.youtube.com/watch?v=-laiCZ2fr14)*
