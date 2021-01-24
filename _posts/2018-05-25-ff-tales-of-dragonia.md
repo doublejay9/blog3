@@ -1,6 +1,6 @@
 ---
 layout: post
-category: friday fiction
+category: friday-fiction
 title: Friday Flash 5 -- Tales of Dragonia
 ---
 
