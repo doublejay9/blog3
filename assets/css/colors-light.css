@@ -35,6 +35,10 @@ blockquote {
 	border-color: #cb4b16;
 }
 
+table, th, td {
+	border: 1px solid #839496;
+}
+
 #sidebar a:hover {
 	color: #2aa198;
 	background-color: #eee8d5;
