@@ -1,6 +1,6 @@
 ---
 layout: post
-category: friday-fiction reclaiming-the-city
+categories: friday-fiction reclaiming-the-city
 title: Friday Fiction -- Crystal Towers
 ---
 
