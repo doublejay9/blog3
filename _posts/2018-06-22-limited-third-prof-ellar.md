@@ -4,7 +4,7 @@ category: 8-povs
 title: Limited Third -- Professor Matthew Ellar
 ---
 
-*This is a companion piece to my post "Eight Points of View -- First Person and Limited Third"*
+*This is a companion piece to my post ["Eight Points of View -- First Person and Limited Third"](https://apprenticewordsmith.com//2018/06/22/pov-first-limited-third/)*
 
 At last, Professor Ellar, Garrett and Dora reached the heart of the facility. As his eyes adjusted to the dimness, Ellar found himself in one of the most confusing places he’d ever seen. Hundreds of human skulls lined three walls. It reminded him of the catacombs beneath Paris. Then there was that unavoidable pentagram drawn on the floor, presumably with chalk, judging by the smell.
 
