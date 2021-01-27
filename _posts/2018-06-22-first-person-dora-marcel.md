@@ -4,7 +4,7 @@ category: 8-povs
 title: First Person -- Dora Marcel
 ---
 
-*This is a companion piece to my post "Eight Points of View: First Person and Limited Third"*
+*This is a companion piece to my post ["Eight Points of View: First Person and Limited Third"](https://apprenticewordsmith.com//2018/06/22/pov-first-limited-third/)*
 
 We made it to the heart of the warehouse. The room felt different from the rest of the building. As soon as I saw that white pentagram drawn on the floor, I knew why. This was the source of the evil that radiated from this place. The arcane symbols surrounding the huge sigil. A portal to hell? Blood dripping down the drain. Candles flickering. Hundreds of skulls stacked against the walls. A red curtain hung at the far end of room. Something unnatural writhing beneath it.
 
