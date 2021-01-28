@@ -4,7 +4,7 @@ category: 8-povs
 title: First Person Observer-Narrator -- Garrett Morton
 ---
 
-*This is a companion piece to my post "Eight Points of View -- The Observer-Narrator"*
+*This is a companion piece to my post ["Eight Points of View -- The Observer-Narrator"](https://www.youtube.com/watch?v=Jy4EqmBlUfo)*
 
 We reached the center of the warehouse, and there we saw the strangest room I’d ever seen. It was dim but I could make out skulls – hundreds of them – lining the walls.
 
