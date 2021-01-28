@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 categories: writing-about-writing 8-povs
 title: Eight Points of View -- The Observer-Narrator
 ---
