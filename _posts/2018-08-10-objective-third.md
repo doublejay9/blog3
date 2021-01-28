@@ -4,7 +4,7 @@ category: 8-povs
 title: Objective Third
 ---
 
-*This is a companion piece for my post "Eight Points of View -- Objective Third"*
+*This is a companion piece for my post ["Eight Points of View -- Objective Third"](https://apprenticewordsmith.com//2018/08/10/pov-objective-third/)*
 
 Professor Ellar, Garrett, and Dora entered the room at the center of the warehouse. It was dimmer and warmer than the rooms they had wandered through. Human skulls stare back at them, stacked one on top of the other along three walls. The far wall was covered with a thick, red curtain. A large pentagram was drawn with chalk in the middle of the floor.
 
