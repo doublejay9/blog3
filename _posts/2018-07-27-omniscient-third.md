@@ -4,7 +4,7 @@ category: 8-povs
 title: Omniscient Third
 ---
 
-*This is a companion piece to my post "Eight Points of View -- Omniscient Third"*
+*This is a companion piece to my post ["Eight Points of View -- Omniscient Third"](https://apprenticewordsmith.com//2018/07/27/pov-omniscient-third/)*
 
 Professor Ellar, Garrett, and Dora reached the center of the warehouse. As their eyes adjusted to the dim light, they found themselves in one of the most confusing places they’d ever seen.
 
