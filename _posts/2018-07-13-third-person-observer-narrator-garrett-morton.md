@@ -4,7 +4,7 @@ category: 8-povs
 title: Third Person Observer-Narrator -- Garrett Morton
 ---
 
-*This is a companion piece to my post "Eight Points of View -- The Observer-Narrator"*
+*This is a companion piece to my post ["Eight Points of View -- The Observer-Narrator"](https://apprenticewordsmith.com//2018/07/13/pov-observer-narrator/)*
 
 Garrett, the professor, and Dora reached the center of the warehouse. Garrett’s eyes were immediately drawn to the skulls stacked up against the walls. At last, he had found proof that Vasco was a murderer and a monster.
 
