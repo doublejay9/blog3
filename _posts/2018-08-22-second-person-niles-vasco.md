@@ -4,7 +4,7 @@ category: 8-povs
 title: Second Person -- Niles Vasco
 ---
 
-*This is a companion piece for my post "Eight Points of View -- Second Person"*
+*This is a companion piece for my post ["Eight Points of View -- Second Person"](https://apprenticewordsmith.com//2018/08/22/pov-second-person/)*
 
 You’re rubbing alcohol onto the blade of your dagger – the ritual demands a clean blade – when you notice a change on the monitor hanging above your desk. The security cammeras catch three people entering the warehouse. One is Professor Ellar. You watch them weave their way across each camera’s view. Should you stop them? Maybe not. Maybe witnesses are the missing element you’ve been seeking. Either way, it’s too late for anyone to change anything.
 
