@@ -4,7 +4,7 @@ category: 8-povs
 title: Second Person Observer-Narrator -- Garrett Morton
 ---
 
-*This is a companion piece for my post "Eight Points of View -- Second Person"*
+*This is a companion piece for my post ["Eight Points of View -- Second Person"](https://apprenticewordsmith.com//2018/08/22/pov-second-person/)*
 
 You, Dora, and the professor reach the center of the warehouse and enter the strangest room you have ever seen. In the dim light, you can make out hundreds of skulls lining the walls. They must have belonged to Vasco’s previous victims. You knew that Vasco was a monster, and now you have proof.
 
