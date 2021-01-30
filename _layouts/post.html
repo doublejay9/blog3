@@ -20,6 +20,7 @@ layout: default
 	
 	<hr>
 	<form method="POST" action=#>
+		<p><b>Leave a Comment</b></p>
 		<input name="options[redirect]" type="hidden" value="{{ site.baseurl }}/{{ post.url }}">
 		<input name="options[slug]" type="hidden" value="{{ page.slug }}">
 		<p>
@@ -27,15 +28,18 @@ layout: default
 			<input type="text" name="fields[name]" id="name">
 		</p>
 		<p>
-			<label for="fields[email]">Email:</label>
+			<label for="fields[email]">Email: (Will not be published. Used to generate Gravatar.)</label>
 			<input type="email" name="fields[email]" id="email">
 		</p>
 		<p>
 			<label for="fields[message]">Message</label>
 			<textarea name="fields[message]" id="message"></textarea>
 		</p>
-		<label for="comment-form-location">Not used. Leave blank if you are a human.</label>
+		<label for="comment-form-location" class="hidden">Not used. Leave blank if you are a human.</label>
 		<input type="hidden" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>
+		<p class="hidden js-notice">
+			<span class="js-notice-text">Testing existence.</span>
+		</p>
 		<p class="submit">
 			<input type="submit" value="Submit" class="btn-submit">
 		</p>
