@@ -24,3 +24,7 @@ form p {
   clear: both;
   min-height: 25px;
 }
+
+.hidden {
+ display: none; 
+}
