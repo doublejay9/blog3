@@ -19,7 +19,7 @@ layout: default
 	<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>
 	
 	<hr>
-	<form method="POST" action=#>
+	<form id="comment-form" method="POST" action=#>
 		<p><b>Leave a Comment</b></p>
 		<input class="hidden" name="options[redirect]" type="hidden" value="{{ site.baseurl }}/{{ post.url }}">
 		<input class="hidden" name="options[slug]" type="hidden" value="{{ page.slug }}">
@@ -37,11 +37,11 @@ layout: default
 		</p>
 		<label for="comment-form-location" class="hidden">Not used. Leave blank if you are a human.</label>
 		<input type="hidden" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>
-		<p class="js-notice">
+		<p class="notice--danger js-notice">
 			<span class="js-notice-text">Testing existence.</span>
 		</p>
 		<p class="submit">
-			<input type="submit" value="Submit" class="btn-submit">
+			<input type="submit" value="Submit" class="btn-submit" disabled>
 		</p>
 	</form>
 
