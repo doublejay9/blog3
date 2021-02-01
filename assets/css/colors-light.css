@@ -48,6 +48,14 @@ table, th, td {
 	border-color: #eee8d5;
 }
 
+.notice--danger {
+	color: #cb4b16;
+}
+
+.notice--success {
+	color: #2aa198;
+}
+
 
 
 /*** Pygments ***/
