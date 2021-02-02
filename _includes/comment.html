@@ -1,8 +1,0 @@
-<article id="comment{{ include.index }}" class="comment">
-  <img class="comment_avatar" src="https://www.gravatar.com/avatar/{{ include.email }}?d=identicon&s=50" alt="{{ include.name }}">
-  <div class="comment_content-wrapper">
-    <h3 class="comment_author">{{ include.name }}</h3>
-    <p><time datetime="{{ include.date | date_to_xmlschema }}">{{ include.date | date: "%B %d, %Y at %I:%M %p" }}</time></p>
-    <p>{{ include.message }}</p>
-  </div>
-</article>
