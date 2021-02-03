@@ -1,5 +1,5 @@
 # Apprentice Wordsmith
-This is data for my writing blog *Apprentice Wordsmith.* You can read it here. {add link later}
+This is data for my writing blog *Apprentice Wordsmith.* You can read it [here.](https://apprenticewordsmith.com/)
 
 ## Credits
 The blog is powered by [Jekyll](http://jekyllrb.com).
