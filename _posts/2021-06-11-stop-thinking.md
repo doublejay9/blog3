@@ -1,7 +1,7 @@
 ---
 layout: post
 category: writing-about-writing
-title: "Stop thinking!"
+title: '"Stop thinking!"'
 ---
 
 While looking back over the original LegendFire discussion thread [in preparation for May's post,](https://apprenticewordsmith.com//2021/05/14/writing-as-self-expression/) I realized that a point got lost in the shuffle -- a point Scintilla wanted to discuss. I've strung together bits from her follow-up and initial posts that highlight this glossed over detail.
