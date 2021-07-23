@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: friday-fiction, reclaiming-the-city
+categories: friday-fiction reclaiming-the-city
 title: Friday Fiction -- Coldessi Park, Part 2
 ---
 
