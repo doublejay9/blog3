@@ -93,3 +93,5 @@ Nico crossed his arms. "Well... Take a walk in the rain. Then we'll see." That's
 "Or I could just toss him in the river," Bern suggested.
 
 "Please don't," David asked.
+
+*&copy;2022 Joyce Lewis. All rights reserved.*
