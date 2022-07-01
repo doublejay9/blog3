@@ -6,7 +6,7 @@ title: Writing Prompts 55
 
 Happy Independence Day, America! Here's some writing prompts you can work on as you wait for night to fall and the fireworks to begin.
 
-<!--except-->
+<!--excerpt-->
 
 1. Begin your next story with this line: "Want a hurdy gurdy for your band?"
 
